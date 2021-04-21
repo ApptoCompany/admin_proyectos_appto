@@ -1,2 +1,2 @@
 # Admin_proyectos_appto
-Organización de proyectos Ti, Diseño MKT, software
+Organización de proyectos Ti, Diseño MKT, software.
